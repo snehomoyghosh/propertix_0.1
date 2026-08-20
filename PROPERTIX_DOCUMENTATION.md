@@ -10,7 +10,7 @@
 **Propertix** is a full-stack Web3 decentralized application (dApp) that digitizes and secures India's property registration process using blockchain technology. It replaces the traditional, paper-heavy, and corruption-prone land registration system with an immutable, transparent, and tamper-proof digital ledger.
 
 The platform allows citizens to:
-- Register land/property as a digital deed on the blockchain
+- Register land/property as a digital deed on the blockchain 
 - Get the deed verified through a 3-phase government workflow
 - Receive a unique **NFT (ERC-721)** token representing their property ownership
 - Transfer, sell, or lease property ownership directly on-chain
