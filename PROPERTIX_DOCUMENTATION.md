@@ -4,7 +4,7 @@
 > A blockchain-powered property registration and verification platform designed for India.
 
 ---
-
+ 
 ## 📌 What is Propertix?
 
 **Propertix** is a full-stack Web3 decentralized application (dApp) that digitizes and secures India's property registration process using blockchain technology. It replaces the traditional, paper-heavy, and corruption-prone land registration system with an immutable, transparent, and tamper-proof digital ledger.
