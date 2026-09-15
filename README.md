@@ -3,7 +3,7 @@
 > A full-stack Web3 dApp to register, verify, and transfer property ownership on the Ethereum blockchain.  
 > Built with **React + Vite**, **Express/Node.js**, **Solidity (Hardhat)**, and **NeonDB (PostgreSQL)**.
 
----
+--- 
    
 ## 📁 Project Structure
 
