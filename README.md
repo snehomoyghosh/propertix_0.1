@@ -4,7 +4,7 @@
 > Built with **React + Vite**, **Express/Node.js**, **Solidity (Hardhat)**, and **NeonDB (PostgreSQL)**.
 
 ---
- 
+  
 ## 📁 Project Structure
 
 ```
